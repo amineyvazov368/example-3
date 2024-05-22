@@ -1,0 +1,63 @@
+.title{
+    padding: 250px 400px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border: 2px solid red;
+    background-image: url('');
+    width: 100%;
+}
+.roww{
+    row-gap: 15px;
+}
+.first {
+    font-size: larger;
+    width: 60%;
+}
+.first h1{
+    font-size: 75px;
+    margin-top: 0px;
+}
+.first button{
+    padding: 13px 38px;
+    background-color: rgb(231, 75, 75);
+    border: none;
+    color: white;
+}
+.kind{
+    padding-top: 50px ;
+    padding-bottom: 50px;
+
+}
+.card1{
+ padding: 90px 70px;
+    background-image: url(https://preview.colorlib.com/theme/coloshop/images/banner_1.jpg);
+}
+.cardText{
+    border: 1px solid white;
+    padding: 10px 25px;
+    margin: auto;
+    text-align: center;
+    background-color: white;
+}
+.card2{
+    padding: 90px 70px;
+       background-image: url("https://preview.colorlib.com/theme/coloshop/images/banner_2.jpg");
+   }
+   .card3{
+    padding: 90px 70px;
+       background-image: url(https://preview.colorlib.com/theme/coloshop/images/banner_3.jpg);
+   }
+   .products{
+    padding-top:30px ;
+    padding-bottom: 30px;
+    margin: auto;
+   }
+   .productTitle{
+    width: 25%;
+    margin: auto;
+    text-align: center;
+   }
+   .boxs button{
+    padding: 5px 19px;
+   }

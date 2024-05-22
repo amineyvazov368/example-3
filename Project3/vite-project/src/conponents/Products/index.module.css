@@ -1,0 +1,43 @@
+.cardImg{
+
+    height: 150px;
+width: 97%;
+}
+.container{
+    width: 70%;
+    margin: auto;
+}
+.cardInfo{
+  
+    padding: 20px;
+}
+.cardImg img{
+    width: 100%;
+    height: 100%;
+}
+.card{
+    width: 100%;
+    padding: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;;
+}
+.cardBody{
+   padding: 80px;
+   row-gap: 85px;
+   border: none;
+   display: flex;
+}
+.border{
+    width: 30%;
+}
+.cardInfo button{
+    padding: 7px 15px;
+    border-radius: 20px;
+    margin-left: 10px;
+}
+.row{
+   row-gap: 20px;
+   margin-top: 35px;
+}
+.productContainer{
+    margin-top: 70px;
+}
